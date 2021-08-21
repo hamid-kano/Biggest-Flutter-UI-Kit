@@ -1,0 +1,103 @@
+{
+  "history": [
+    {
+      "year": "2015",
+      "champion": "Australia",
+      "runnersUp": "New Zealand",
+      "teamImage": "o/history%2F2015.jpg?alt=media&token=e6a91f68-16f3-44ac-ba57-7fc9b5257482",
+      "teamOneScore": "186–3",
+      "teamTwoScore": "183",
+      "result": "Australia won by 7 wickets"
+    },
+    {
+      "year": "2011",
+      "champion": "India",
+      "runnersUp": "Sri Lanka",
+      "teamImage": "o/history%2F2011.jpg?alt=media&token=7662fc32-408c-4c52-b786-1b2960886d47",
+      "teamOneScore": "277–4",
+      "teamTwoScore": "274–6",
+      "result": "India won by 6 wickets"
+    },
+    {
+      "year": "2007",
+      "champion": "Australia",
+      "runnersUp": "Sri Lanka",
+      "teamImage": "o/history%2F2007.jpg?alt=media&token=b910978b-b27c-41b3-9a59-354bd99f95be",
+      "teamOneScore": "281–4",
+      "teamTwoScore": "215–8",
+      "result": "Australia won by 53 runs"
+    },
+    {
+      "year": "2003",
+      "champion": "Australia",
+      "runnersUp": "India",
+      "teamImage": "o/history%2F2003.jpg?alt=media&token=84e63ca1-c6db-4939-a9a3-fc5644579ecf",
+      "teamOneScore": "359–2",
+      "teamTwoScore": "234",
+      "result": "Australia won by 125 runs"
+    },
+    {
+      "year": "1999",
+      "champion": "Australia",
+      "runnersUp": "Pakistan",
+      "teamImage": "o/history%2F1999.jpg?alt=media&token=393f8da7-558b-4635-b44e-f941de14a67b",
+      "teamOneScore": "133–2",
+      "teamTwoScore": "132",
+      "result": "Australia won by 8 wickets"
+    },
+    {
+      "year": "1996",
+      "champion": "Sri Lanka",
+      "runnersUp": "Australia",
+      "teamImage": "o/history%2F1996.jpg?alt=media&token=fa83a304-281b-4449-9247-555a86d01bae",
+      "teamOneScore": "245–3",
+      "teamTwoScore": "241",
+      "result": "Sri Lanka won by 7 wickets"
+    },
+    {
+      "year": "1992",
+      "champion": "Pakistan",
+      "runnersUp": "England",
+      "teamImage": "o/history%2F1992.jpg?alt=media&token=1b70144c-044f-4100-b106-c76d9f6368f8",
+      "teamOneScore": "249–6",
+      "teamTwoScore": "227",
+      "result": "Pakistan won by 22 runs"
+    },
+    {
+      "year": "1987",
+      "champion": "Australia",
+      "runnersUp": "England",
+      "teamImage": "o/history%2F1987.jpg?alt=media&token=bdd2faf7-2932-41c8-a4cf-b9651a7bcb29",
+      "teamOneScore": "253–5",
+      "teamTwoScore": "246–8",
+      "result": "Australia won by 7 runs"
+    },
+    {
+      "year": "1983",
+      "champion": "India",
+      "runnersUp": "Windies",
+      "teamImage": "o/history%2F1983.jpg?alt=media&token=96cfbac2-12f5-4f90-b59a-00cf8e5280a5",
+      "teamOneScore": "183",
+      "teamTwoScore": "140",
+      "result": "India won by 43 runs"
+    },
+    {
+      "year": "1979",
+      "champion": "Windies",
+      "runnersUp": "England",
+      "teamImage": "o/history%2F1979.jpg?alt=media&token=c5fffc11-7486-452e-8957-d69630abee81",
+      "teamOneScore": "286–9",
+      "teamTwoScore": "194",
+      "result": "West Indies won by 92 runs"
+    },
+    {
+      "year": "1975",
+      "champion": "Windies",
+      "runnersUp": "Australia",
+      "teamImage": "o/history%2F1975.png?alt=media&token=c710c56d-cf39-4d85-8e7b-14b363bd40fd",
+      "teamOneScore": "291–8",
+      "teamTwoScore": "274",
+      "result": "West Indies won by 17 runs"
+    }
+  ]
+}

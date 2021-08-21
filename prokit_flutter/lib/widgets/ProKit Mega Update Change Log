@@ -1,0 +1,73 @@
+- Dark and Light Mode Support
+- 236+ Total new widgets
+
+App Structure
+- AppBar (7 examples)
+- Bottom Navigation Bar (3 examples)
+- Drawer (2 examples)
+- SliverAppBar (2 examples)
+- TabBar (4 examples)
+
+Buttons
+- DropDownButton (3 examples)
+- FlatButton (11 examples)
+- FloatingActionButton (6 examples)
+- IconButton (4 examples)
+- OutlineButton (8 examples)
+- PopupMenuButton (3 examples)
+- RaisedButton (10 examples)
+- Material Button (11 examples)
+
+Input & Selection
+- Checkbox (10 examples)
+- Datetime Picker (2 examples)
+- Radio (6 examples)
+- Slider (3 examples)
+- Switch (4 examples)
+- TextField (13 examples)
+- TextFormField (7 examples)
+
+Dialogs, Alerts & Panels
+- AlertDialog (4 examples)
+- BottomSheet (4 examples)
+- ExpansionPanel
+- SimpleDialog (7 examples)
+- SnackBar (7 examples)
+
+Information Display
+- Card (5 examples)
+- Chip (5 examples)
+- ProgressBar (Circuler, Linear) (5 examples)
+- DataTable (3 examples)
+- GridView
+- Icon (7 examples)
+- Image (assets,Network,Placeholders) (5 examples)
+- Tooltip (2 examples)
+- ListView (4 examples)
+- RichText ( examples)
+
+Layout
+- Divider (7 examples)
+- ListTile
+- Stepper (4 examples)
+- UserAccountsDrawerHeader (4 examples)
+
+Cupertino Widgets
+- Cupertino Action Sheet (3 examples)
+- Cupertino Activity Indicator
+- Cupertino Alert Dialog (2 examples)
+- Cupertino Button (7 examples)
+- Cupertino Context Menu
+- Cupertino Date Picker
+- Cupertino Dialog
+- Cupertino Dialog Action (4 examples)
+- Cupertino Navigation Bar (6 examples)
+- Cupertino Picker
+- Cupertino Segmented Control
+- Cupertino Slider (2 examples)
+- Cupertino Sliding Segmented Control
+- Cupertino Switch (3 examples)
+- Cupertino TabBar (3 examples)
+- Cupertino TabView
+- Cupertino TextField (7 examples)
+- Cupertino TimePicker

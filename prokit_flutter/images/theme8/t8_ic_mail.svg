@@ -1,0 +1,6 @@
+<svg id="Icons_24pt_ic_send_message" data-name="Icons/24pt/ic_send_message" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic_send_message">
+    <rect id="bound" width="24" height="24" opacity="0"/>
+    <path id="Fill" d="M18,16H2a2,2,0,0,1-2-2V3.22l9.427,6.6.119.072a1,1,0,0,0,1.028-.072L20,3.22V14A2,2,0,0,1,18,16ZM10,7.779h0L.573,1.181.466,1.115a1,1,0,0,0-.215-.083A2.006,2.006,0,0,1,2,0H18a2.006,2.006,0,0,1,1.748,1.032,1,1,0,0,0-.322.149L10,7.778Z" transform="translate(2 4)" fill="#1e1f20"/>
+  </g>
+</svg>

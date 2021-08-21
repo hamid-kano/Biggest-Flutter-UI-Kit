@@ -1,0 +1,68 @@
+[
+  {
+    "item": {
+      "id": 17,
+      "name": "Red Dress",
+      "image": "/dress/dress_8.jpeg",
+      "price": "15"
+    },
+    "order_date": "14 apr 2020",
+    "order_status": "Pending",
+    "order_number": "59478694"
+  },
+  {
+    "item": {
+      "id": 1,
+      "name": "Idalia",
+      "price": "14",
+      "image": "/idalia.webp"
+    },
+    "order_date": "14 apr 2020",
+    "order_status": "Delivered",
+    "order_number": "75677767"
+  },
+  {
+    "item": {
+      "id": 18,
+      "name": "Vamsi",
+      "price": "28",
+      "image": "/vamsi.webp"
+    },
+    "order_date": "14 apr 2020",
+    "order_status": "Delivered",
+    "order_number": "59478694"
+  },
+  {
+    "item": {
+      "id": 17,
+      "name": "Red Dress",
+      "image": "/dress/dress_8.jpeg",
+      "price": "15"
+    },
+    "order_date": "14 apr 2020",
+    "order_status": "Pending",
+    "order_number": "59478694"
+  },
+  {
+    "item": {
+      "id": 1,
+      "name": "Idalia",
+      "price": "14",
+      "image": "/idalia.webp"
+    },
+    "order_date": "14 apr 2020",
+    "order_status": "Delivered",
+    "order_number": "75677767"
+  },
+  {
+    "item": {
+      "id": 18,
+      "name": "Vamsi",
+      "price": "28",
+      "image": "/vamsi.webp"
+    },
+    "order_date": "14 apr 2020",
+    "order_status": "Delivered",
+    "order_number": "59478694"
+  }
+]

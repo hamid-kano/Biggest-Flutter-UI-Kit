@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390414775798",
+    "firebase_url": "https://prokit-flutter.firebaseio.com",
+    "project_id": "prokit-flutter",
+    "storage_bucket": "prokit-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390414775798:android:5028b0288e73a744aa03d7",
+        "android_client_info": {
+          "package_name": "com.iqonic.prokitflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390414775798-2slj3p1m1bfadaaijvcqjpue8ijrkg6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vaXshOIow78NIncu3DhMkKt_DjbCuAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390414775798-2slj3p1m1bfadaaijvcqjpue8ijrkg6v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390414775798-3r3pnimk1j59ihshvfhgppf72tfs79e0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iqonic.prokitflutter1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

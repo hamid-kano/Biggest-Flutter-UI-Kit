@@ -1,0 +1,360 @@
+{
+    "url": {
+        "match": "http://mapps.cricbuzz.com/cbzios/match"
+    },
+    "match_id": "20717",
+    "series_id": "2730",
+    "series_name": "The Ashes 2019",
+    "data_path": "2019/2019_ASHES/ENG_AUS_AUG22_AUG26/",
+    "header": {
+        "start_time": "1566468000",
+        "end_time": "1566746280",
+        "state": "mom",
+        "winning_team_id": 9,
+        "match_desc": "3rd Test",
+        "mom": [
+            6557
+        ],
+        "momNames": [
+            "Stokes"
+        ],
+        "type": "TEST",
+        "state_title": "ENG Won",
+        "toss": "England elect to bowl",
+        "status": "ENG won by 1 wkt"
+    },
+    "alerts": "1",
+    "venue": {
+        "name": "Headingley",
+        "location": "Leeds, England",
+        "timezone": "+01:00",
+        "lat": "53.817622",
+        "long": "-1.58211"
+    },
+    "official": {
+        "umpire1": {
+            "id": "6864",
+            "name": "Chris Gaffaney",
+            "country": "NZ"
+        },
+        "umpire2": {
+            "id": "7931",
+            "name": "Joel Wilson",
+            "country": "WI"
+        },
+        "umpire3": {
+            "id": "3576",
+            "name": "Kumar Dharmasena",
+            "country": "SL"
+        },
+        "referee": {
+            "id": "3894",
+            "name": "Javagal Srinath",
+            "country": "IND"
+        }
+    },
+    "toss": {
+        "winner": "England",
+        "decision": "Fielding"
+    },
+    "team1": {
+        "id": "9",
+        "name": "England",
+        "s_name": "ENG",
+        "flag": "1",
+        "squad": [
+            6536,
+            6534,
+            8019,
+            1995,
+            6557,
+            6507,
+            2258,
+            6670,
+            11540,
+            554,
+            8578
+        ],
+        "squad_bench": [
+            10420
+        ]
+    },
+    "team2": {
+        "id": "4",
+        "name": "Australia",
+        "s_name": "AUS",
+        "flag": "1",
+        "squad": [
+            1739,
+            7776,
+            6635,
+            10182,
+            8497,
+            1649,
+            1994,
+            2283,
+            8095,
+            7850,
+            6258
+        ],
+        "squad_bench": [
+            8489,
+            1444,
+            6250,
+            8130,
+            7710
+        ]
+    },
+    "players": [
+        {
+            "id": "6536",
+            "f_name": "Rory Burns",
+            "name": "Rory Burns",
+            "bat_style": "LEFT",
+            "bowl_style": "Right Arm medium",
+            "speciality": "WK-Batsman",
+            "image": "default.jpg"
+        },
+        {
+            "id": "6534",
+            "f_name": "Jason Roy",
+            "name": "Roy",
+            "bat_style": "RIGHT",
+            "speciality": "Batsman",
+            "image": "default.jpg"
+        },
+        {
+            "id": "8019",
+            "f_name": "Joe Root",
+            "name": "Root",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm off break",
+            "speciality": "Batsman",
+            "role": "(c)",
+            "image": "default.jpg"
+        },
+        {
+            "id": "1995",
+            "f_name": "Joe Denly",
+            "name": "Denly",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm leg break",
+            "speciality": "Batting Allrounder",
+            "image": "default.jpg"
+        },
+        {
+            "id": "6557",
+            "f_name": "Ben Stokes",
+            "name": "Stokes",
+            "bat_style": "LEFT",
+            "bowl_style": "Right Arm fast medium",
+            "speciality": "Batting Allrounder",
+            "image": "default.jpg"
+        },
+        {
+            "id": "6507",
+            "f_name": "Jonny Bairstow",
+            "name": "Bairstow",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm medium",
+            "speciality": "WK-Batsman",
+            "role": "(wk)",
+            "image": "default.jpg"
+        },
+        {
+            "id": "2258",
+            "f_name": "Jos Buttler",
+            "name": "Buttler",
+            "bat_style": "RIGHT",
+            "speciality": "WK-Batsman",
+            "image": "default.jpg"
+        },
+        {
+            "id": "6670",
+            "f_name": "Chris Woakes",
+            "name": "Woakes",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm fast medium",
+            "speciality": "Bowling Allrounder",
+            "image": "default.jpg"
+        },
+        {
+            "id": "11540",
+            "f_name": "Jofra Archer",
+            "name": "Jofra Archer",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm fast medium",
+            "speciality": "Bowling Allrounder",
+            "image": "default.jpg"
+        },
+        {
+            "id": "554",
+            "f_name": "Stuart Broad",
+            "name": "Broad",
+            "bat_style": "LEFT",
+            "bowl_style": "Right Arm fast medium",
+            "speciality": "Bowler",
+            "image": "554.jpg"
+        },
+        {
+            "id": "8578",
+            "f_name": "Jack Leach",
+            "name": "Jack Leach",
+            "bat_style": "LEFT",
+            "bowl_style": "Left Arm orthodox",
+            "speciality": "Bowler",
+            "image": "default.jpg"
+        },
+        {
+            "id": "10420",
+            "f_name": "Sam Curran",
+            "name": "Sam Curran",
+            "bat_style": "LEFT",
+            "bowl_style": "Left Arm fast medium",
+            "speciality": "Bowling Allrounder",
+            "image": "default.jpg"
+        },
+        {
+            "id": "1739",
+            "f_name": "David Warner",
+            "name": "Warner",
+            "bat_style": "LEFT",
+            "bowl_style": "Right Arm leg break",
+            "speciality": "Batsman",
+            "image": "default.jpg"
+        },
+        {
+            "id": "7776",
+            "f_name": "Marcus Harris",
+            "name": "Marcus Harris",
+            "bat_style": "LEFT",
+            "speciality": "Batsman",
+            "image": "default.jpg"
+        },
+        {
+            "id": "6635",
+            "f_name": "Usman Khawaja",
+            "name": "Khawaja",
+            "bat_style": "LEFT",
+            "bowl_style": "Right Arm off break",
+            "speciality": "Batsman",
+            "image": "default.jpg"
+        },
+        {
+            "id": "10182",
+            "f_name": "Marnus Labuschagne",
+            "name": "Labuschagne",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm leg break",
+            "speciality": "Batting Allrounder",
+            "image": "default.jpg"
+        },
+        {
+            "id": "8497",
+            "f_name": "Travis Head",
+            "name": "Head",
+            "bat_style": "LEFT",
+            "bowl_style": "Right Arm off break",
+            "speciality": "Batting Allrounder",
+            "image": "default.jpg"
+        },
+        {
+            "id": "1649",
+            "f_name": "Matthew Wade",
+            "name": "Wade",
+            "bat_style": "LEFT",
+            "speciality": "WK-Batsman",
+            "image": "default.jpg"
+        },
+        {
+            "id": "1994",
+            "f_name": "Tim Paine",
+            "name": "Paine",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm medium",
+            "speciality": "WK-Batsman",
+            "role": "(c & wk)",
+            "image": "default.jpg"
+        },
+        {
+            "id": "2283",
+            "f_name": "James Pattinson",
+            "name": "Pattinson",
+            "bat_style": "LEFT",
+            "bowl_style": "Right Arm fast",
+            "speciality": "Bowler",
+            "image": "default.jpg"
+        },
+        {
+            "id": "8095",
+            "f_name": "Pat Cummins",
+            "name": "Pat Cummins",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm fast",
+            "speciality": "Bowler",
+            "image": "default.jpg"
+        },
+        {
+            "id": "7850",
+            "f_name": "Nathan Lyon",
+            "name": "Lyon",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm off break",
+            "speciality": "Bowler",
+            "image": "default.jpg"
+        },
+        {
+            "id": "6258",
+            "f_name": "Josh Hazlewood",
+            "name": "Hazlewood",
+            "bat_style": "LEFT",
+            "bowl_style": "Right Arm fast medium",
+            "speciality": "Bowler",
+            "image": "default.jpg"
+        },
+        {
+            "id": "8489",
+            "f_name": "Cameron Bancroft",
+            "name": "Bancroft",
+            "bat_style": "RIGHT",
+            "speciality": "WK-Batsman",
+            "image": "default.jpg"
+        },
+        {
+            "id": "1444",
+            "f_name": "Peter Siddle",
+            "name": "Siddle",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm fast medium",
+            "speciality": "Bowler",
+            "image": "default.jpg"
+        },
+        {
+            "id": "6250",
+            "f_name": "Mitchell Marsh",
+            "name": "Mitchell Marsh",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm fast medium",
+            "speciality": "Batting Allrounder",
+            "image": "default.jpg"
+        },
+        {
+            "id": "8130",
+            "f_name": "Michael Neser",
+            "name": "Neser",
+            "bat_style": "RIGHT",
+            "bowl_style": "Right Arm medium",
+            "speciality": "Batting Allrounder",
+            "image": "default.jpg"
+        },
+        {
+            "id": "7710",
+            "f_name": "Mitchell Starc",
+            "name": "Starc",
+            "bat_style": "LEFT",
+            "speciality": "Bowler",
+            "image": "default.jpg"
+        }
+    ]
+}
+

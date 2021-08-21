@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>390414775798-3r3pnimk1j59ihshvfhgppf72tfs79e0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.390414775798-3r3pnimk1j59ihshvfhgppf72tfs79e0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>390414775798-2ibul2qkkkmba1ob0r1cjnkbiq4lnrpg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXwrvHeNNlPATLzslJq8uiekfe-inNs4E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>390414775798</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iqonic.prokitflutter1</string>
+	<key>PROJECT_ID</key>
+	<string>prokit-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>prokit-flutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:390414775798:ios:8fcdfd0c8c0607f2aa03d7</string>
+	<key>DATABASE_URL</key>
+	<string>https://prokit-flutter.firebaseio.com</string>
+</dict>
+</plist>

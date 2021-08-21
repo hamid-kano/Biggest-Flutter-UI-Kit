@@ -1,0 +1,13 @@
+{
+  "language": "English",
+  "liquid_pull_to_refresh": "Liquid Pull To Refresh",
+  "integration": "Integration",
+  "before_after_image": "Before After Image",
+  "google_sign_in": "Google Sign In",
+  "razorpay_payment_integration": "RazorPay Payment Integration",
+  "google_maps_with_clustering": "Google Maps with Clustering",
+  "multi_language": "Multi Language",
+  "theme": "Theme",
+  "light_theme": "Light Theme",
+  "dark_theme": "Dark Theme"
+}

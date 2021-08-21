@@ -1,0 +1,2226 @@
+{
+    "player": {
+        "TEST": {
+            "batting": [
+                {
+                    "rank": "1",
+                    "id": "1413",
+                    "name": "Virat Kohli",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "910",
+                    "avg": "53.38",
+                    "img": "1413.jpg"
+                },
+                {
+                    "rank": "2",
+                    "id": "2250",
+                    "name": "Steven Smith",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "904",
+                    "avg": "63.24",
+                    "img": "2250.jpg"
+                },
+                {
+                    "rank": "3",
+                    "id": "6326",
+                    "name": "Kane Williamson",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "878",
+                    "avg": "52.23",
+                    "img": "6326.jpg"
+                },
+                {
+                    "rank": "4",
+                    "id": "1448",
+                    "name": "Cheteshwar Pujara",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "856",
+                    "avg": "50.49",
+                    "img": "1448.jpg"
+                },
+                {
+                    "rank": "5",
+                    "id": "10694",
+                    "name": "Henry Nicholls",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "749",
+                    "avg": "44.25",
+                    "img": "10694.jpg"
+                },
+                {
+                    "rank": "6",
+                    "id": "7952",
+                    "name": "Dimuth Karunaratne",
+                    "country": "Sri Lanka",
+                    "country_id": "5",
+                    "rating": "733",
+                    "avg": "36.93",
+                    "img": "7952.jpg"
+                },
+                {
+                    "rank": "7",
+                    "id": "8019",
+                    "name": "Joe Root",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "726",
+                    "avg": "47.88",
+                    "img": "8019.jpg"
+                },
+                {
+                    "rank": "8",
+                    "id": "8216",
+                    "name": "Tom Latham",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "724",
+                    "avg": "44.04",
+                    "img": "8216.jpg"
+                },
+                {
+                    "rank": "9",
+                    "id": "9582",
+                    "name": "Aiden Markram",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "719",
+                    "avg": "43.81",
+                    "img": "9582.jpg"
+                },
+                {
+                    "rank": "10",
+                    "id": "8520",
+                    "name": "Quinton de Kock",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "718",
+                    "avg": "39.31",
+                    "img": "8520.jpg"
+                },
+                {
+                    "rank": "11",
+                    "id": "1447",
+                    "name": "Ajinkya Rahane",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "709",
+                    "avg": "41.72",
+                    "img": "1447.jpg"
+                },
+                {
+                    "rank": "12",
+                    "id": "7825",
+                    "name": "Faf du Plessis",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "702",
+                    "avg": "42.95",
+                    "img": "7825.jpg"
+                },
+                {
+                    "rank": "13",
+                    "id": "6557",
+                    "name": "Ben Stokes",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "693",
+                    "avg": "35.87",
+                    "img": "6557.jpg"
+                },
+                {
+                    "rank": "14",
+                    "id": "1739",
+                    "name": "David Warner",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "686",
+                    "avg": "46.68",
+                    "img": "1739.jpg"
+                },
+                {
+                    "rank": "15",
+                    "id": "521",
+                    "name": "Ross Taylor",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "669",
+                    "avg": "45.91",
+                    "img": "521.jpg"
+                }
+            ],
+            "bowling": [
+                {
+                    "rank": "1",
+                    "id": "8095",
+                    "name": "Pat Cummins",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "908",
+                    "avg": "21.49",
+                    "img": "8095.jpg"
+                },
+                {
+                    "rank": "2",
+                    "id": "9585",
+                    "name": "Kagiso Rabada",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "851",
+                    "avg": "21.77",
+                    "img": "9585.jpg"
+                },
+                {
+                    "rank": "3",
+                    "id": "65",
+                    "name": "James Anderson",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "814",
+                    "avg": "26.94",
+                    "img": "65.jpg"
+                },
+                {
+                    "rank": "4",
+                    "id": "731",
+                    "name": "Vernon Philander",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "813",
+                    "avg": "21.64",
+                    "img": "731.jpg"
+                },
+                {
+                    "rank": "5",
+                    "id": "8117",
+                    "name": "Trent Boult",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "793",
+                    "avg": "27.35",
+                    "img": "8117.jpg"
+                },
+                {
+                    "rank": "6",
+                    "id": "2257",
+                    "name": "Neil Wagner",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "785",
+                    "avg": "27.52",
+                    "img": "2257.jpg"
+                },
+                {
+                    "rank": "7",
+                    "id": "9311",
+                    "name": "Jasprit  Bumrah",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "774",
+                    "avg": "20.64",
+                    "img": "9311.jpg"
+                },
+                {
+                    "rank": "8",
+                    "id": "1359",
+                    "name": "Kemar Roach",
+                    "country": "West Indies",
+                    "country_id": "10",
+                    "rating": "772",
+                    "avg": "26.96",
+                    "img": "1359.jpg"
+                },
+                {
+                    "rank": "9",
+                    "id": "11298",
+                    "name": "Mohammad Abbas ",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "770",
+                    "avg": "18.86",
+                    "img": "11298.jpg"
+                },
+                {
+                    "rank": "10",
+                    "id": "587",
+                    "name": "Ravindra Jadeja",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "763",
+                    "avg": "23.99",
+                    "img": "587.jpg"
+                },
+                {
+                    "rank": "11",
+                    "id": "8313",
+                    "name": "Jason Holder",
+                    "country": "West Indies",
+                    "country_id": "10",
+                    "rating": "761",
+                    "avg": "27.97",
+                    "img": "8313.jpg"
+                },
+                {
+                    "rank": "12",
+                    "id": "6258",
+                    "name": "Josh Hazlewood",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "758",
+                    "avg": "26.52",
+                    "img": "6258.jpg"
+                },
+                {
+                    "rank": "13",
+                    "id": "1593",
+                    "name": "Ravichandran Ashwin",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "755",
+                    "avg": "25.44",
+                    "img": "1593.jpg"
+                },
+                {
+                    "rank": "14",
+                    "id": "1057",
+                    "name": "Tim Southee",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "735",
+                    "avg": "29.90",
+                    "img": "1057.jpg"
+                },
+                {
+                    "rank": "15",
+                    "id": "554",
+                    "name": "Stuart Broad",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "731",
+                    "avg": "28.67",
+                    "img": "554.jpg"
+                }
+            ],
+            "allrounder": [
+                {
+                    "rank": "1",
+                    "id": "8313",
+                    "name": "Jason Holder",
+                    "country": "West Indies",
+                    "country_id": "10",
+                    "rating": "433",
+                    "avg": "",
+                    "img": "8313.jpg"
+                },
+                {
+                    "rank": "2",
+                    "id": "6557",
+                    "name": "Ben Stokes",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "411",
+                    "avg": "",
+                    "img": "6557.jpg"
+                },
+                {
+                    "rank": "3",
+                    "id": "544",
+                    "name": "Shakib Al Hasan",
+                    "country": "Bangladesh",
+                    "country_id": "6",
+                    "rating": "399",
+                    "avg": "",
+                    "img": "544.jpg"
+                },
+                {
+                    "rank": "4",
+                    "id": "587",
+                    "name": "Ravindra Jadeja",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "395",
+                    "avg": "",
+                    "img": "587.jpg"
+                },
+                {
+                    "rank": "5",
+                    "id": "731",
+                    "name": "Vernon Philander",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "326",
+                    "avg": "",
+                    "img": "731.jpg"
+                },
+                {
+                    "rank": "6",
+                    "id": "8095",
+                    "name": "Pat Cummins",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "314",
+                    "avg": "",
+                    "img": "8095.jpg"
+                },
+                {
+                    "rank": "7",
+                    "id": "1593",
+                    "name": "Ravichandran Ashwin",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "314",
+                    "avg": "",
+                    "img": "1593.jpg"
+                },
+                {
+                    "rank": "8",
+                    "id": "7710",
+                    "name": "Mitchell Starc",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "256",
+                    "avg": "",
+                    "img": "7710.jpg"
+                },
+                {
+                    "rank": "9",
+                    "id": "6670",
+                    "name": "Chris Woakes",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "252",
+                    "avg": "",
+                    "img": "6670.jpg"
+                },
+                {
+                    "rank": "10",
+                    "id": "11543",
+                    "name": "Roston Chase",
+                    "country": "West Indies",
+                    "country_id": "10",
+                    "rating": "249",
+                    "avg": "",
+                    "img": "11543.jpg"
+                }
+            ]
+        },
+        "ODI": {
+            "batting": [
+                {
+                    "rank": "1",
+                    "id": "1413",
+                    "name": "Virat Kohli",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "895",
+                    "avg": "60.31",
+                    "img": "1413.jpg"
+                },
+                {
+                    "rank": "2",
+                    "id": "576",
+                    "name": "Rohit Sharma",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "863",
+                    "avg": "48.53",
+                    "img": "576.jpg"
+                },
+                {
+                    "rank": "3",
+                    "id": "8359",
+                    "name": "Babar Azam",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "827",
+                    "avg": "53.55",
+                    "img": "8359.jpg"
+                },
+                {
+                    "rank": "4",
+                    "id": "7825",
+                    "name": "Faf du Plessis",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "820",
+                    "avg": "46.67",
+                    "img": "7825.jpg"
+                },
+                {
+                    "rank": "5",
+                    "id": "521",
+                    "name": "Ross Taylor",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "817",
+                    "avg": "47.83",
+                    "img": "521.jpg"
+                },
+                {
+                    "rank": "6",
+                    "id": "6326",
+                    "name": "Kane Williamson",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "796",
+                    "avg": "47.91",
+                    "img": "6326.jpg"
+                },
+                {
+                    "rank": "7",
+                    "id": "1739",
+                    "name": "David Warner",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "794",
+                    "avg": "45.36",
+                    "img": "1739.jpg"
+                },
+                {
+                    "rank": "8",
+                    "id": "8019",
+                    "name": "Joe Root",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "787",
+                    "avg": "51.37",
+                    "img": "8019.jpg"
+                },
+                {
+                    "rank": "9",
+                    "id": "8520",
+                    "name": "Quinton de Kock",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "781",
+                    "avg": "45.02",
+                    "img": "8520.jpg"
+                },
+                {
+                    "rank": "10",
+                    "id": "6534",
+                    "name": "Jason Roy",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "774",
+                    "avg": "42.80",
+                    "img": "6534.jpg"
+                },
+                {
+                    "rank": "11",
+                    "id": "8364",
+                    "name": "Imam-ul-Haq",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "764",
+                    "avg": "54.58",
+                    "img": "8364.jpg"
+                },
+                {
+                    "rank": "12",
+                    "id": "1643",
+                    "name": "Aaron Finch",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "764",
+                    "avg": "40.35",
+                    "img": "1643.jpg"
+                },
+                {
+                    "rank": "13",
+                    "id": "6507",
+                    "name": "Jonny Bairstow",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "758",
+                    "avg": "47.68",
+                    "img": "6507.jpg"
+                },
+                {
+                    "rank": "14",
+                    "id": "10384",
+                    "name": "Shai Hope",
+                    "country": "West Indies",
+                    "country_id": "10",
+                    "rating": "729",
+                    "avg": "46.47",
+                    "img": "10384.jpg"
+                },
+                {
+                    "rank": "15",
+                    "id": "6635",
+                    "name": "Usman Khawaja",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "727",
+                    "avg": "42.00",
+                    "img": "6635.jpg"
+                }
+            ],
+            "bowling": [
+                {
+                    "rank": "1",
+                    "id": "9311",
+                    "name": "Jasprit  Bumrah",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "797",
+                    "avg": "21.88",
+                    "img": "9311.jpg"
+                },
+                {
+                    "rank": "2",
+                    "id": "8117",
+                    "name": "Trent Boult",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "740",
+                    "avg": "25.07",
+                    "img": "8117.jpg"
+                },
+                {
+                    "rank": "3",
+                    "id": "9585",
+                    "name": "Kagiso Rabada",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "694",
+                    "avg": "27.34",
+                    "img": "9585.jpg"
+                },
+                {
+                    "rank": "4",
+                    "id": "8095",
+                    "name": "Pat Cummins",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "693",
+                    "avg": "27.11",
+                    "img": "8095.jpg"
+                },
+                {
+                    "rank": "5",
+                    "id": "6667",
+                    "name": "Imran Tahir",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "683",
+                    "avg": "24.84",
+                    "img": "6667.jpg"
+                },
+                {
+                    "rank": "6",
+                    "id": "12071",
+                    "name": "Mujeeb Ur Rahman",
+                    "country": "Afghanistan",
+                    "country_id": "96",
+                    "rating": "681",
+                    "avg": "22.07",
+                    "img": "12071.jpg"
+                },
+                {
+                    "rank": "7",
+                    "id": "6670",
+                    "name": "Chris Woakes",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "676",
+                    "avg": "30.47",
+                    "img": "6670.jpg"
+                },
+                {
+                    "rank": "8",
+                    "id": "7710",
+                    "name": "Mitchell Starc",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "663",
+                    "avg": "21.00",
+                    "img": "7710.jpg"
+                },
+                {
+                    "rank": "9",
+                    "id": "10738",
+                    "name": "Rashid Khan",
+                    "country": "Afghanistan",
+                    "country_id": "96",
+                    "rating": "658",
+                    "avg": "17.81",
+                    "img": "10738.jpg"
+                },
+                {
+                    "rank": "10",
+                    "id": "9067",
+                    "name": "Matt Henry",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "656",
+                    "avg": "26.49",
+                    "img": "9067.jpg"
+                },
+                {
+                    "rank": "11",
+                    "id": "10692",
+                    "name": "Lockie Ferguson",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "649",
+                    "avg": "25.66",
+                    "img": "10692.jpg"
+                },
+                {
+                    "rank": "12",
+                    "id": "8292",
+                    "name": "Kuldeep Yadav",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "642",
+                    "avg": "23.86",
+                    "img": "8292.jpg"
+                },
+                {
+                    "rank": "13",
+                    "id": "1917",
+                    "name": "Mohammad Amir",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "636",
+                    "avg": "30.25",
+                    "img": "1917.jpg"
+                },
+                {
+                    "rank": "14",
+                    "id": "6661",
+                    "name": "Tim Murtagh",
+                    "country": "Ireland",
+                    "country_id": "27",
+                    "rating": "635",
+                    "avg": "30.95",
+                    "img": "6661.jpg"
+                },
+                {
+                    "rank": "15",
+                    "id": "8483",
+                    "name": "Akila Dananjaya",
+                    "country": "Sri Lanka",
+                    "country_id": "5",
+                    "rating": "631",
+                    "avg": "29.53",
+                    "img": "8483.jpg"
+                }
+            ],
+            "allrounder": [
+                {
+                    "rank": "1",
+                    "id": "544",
+                    "name": "Shakib Al Hasan",
+                    "country": "Bangladesh",
+                    "country_id": "6",
+                    "rating": "394",
+                    "avg": "",
+                    "img": "544.jpg"
+                },
+                {
+                    "rank": "2",
+                    "id": "6557",
+                    "name": "Ben Stokes",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "319",
+                    "avg": "",
+                    "img": "6557.jpg"
+                },
+                {
+                    "rank": "3",
+                    "id": "3007",
+                    "name": "Mohammad Nabi",
+                    "country": "Afghanistan",
+                    "country_id": "96",
+                    "rating": "310",
+                    "avg": "",
+                    "img": "3007.jpg"
+                },
+                {
+                    "rank": "4",
+                    "id": "10408",
+                    "name": "Imad Wasim",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "299",
+                    "avg": "",
+                    "img": "10408.jpg"
+                },
+                {
+                    "rank": "5",
+                    "id": "10738",
+                    "name": "Rashid Khan",
+                    "country": "Afghanistan",
+                    "country_id": "96",
+                    "rating": "288",
+                    "avg": "",
+                    "img": "10738.jpg"
+                },
+                {
+                    "rank": "6",
+                    "id": "6670",
+                    "name": "Chris Woakes",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "267",
+                    "avg": "",
+                    "img": "6670.jpg"
+                },
+                {
+                    "rank": "7",
+                    "id": "10100",
+                    "name": "Mitchell Santner",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "260",
+                    "avg": "",
+                    "img": "10100.jpg"
+                },
+                {
+                    "rank": "8",
+                    "id": "9601",
+                    "name": "Andile Phehlukwayo",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "257",
+                    "avg": "",
+                    "img": "9601.jpg"
+                },
+                {
+                    "rank": "9",
+                    "id": "8313",
+                    "name": "Jason Holder",
+                    "country": "West Indies",
+                    "country_id": "10",
+                    "rating": "253",
+                    "avg": "",
+                    "img": "8313.jpg"
+                },
+                {
+                    "rank": "10",
+                    "id": "360",
+                    "name": "Mohammad Hafeez",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "253",
+                    "avg": "",
+                    "img": "360.jpg"
+                }
+            ]
+        },
+        "T20": {
+            "batting": [
+                {
+                    "rank": "1",
+                    "id": "8359",
+                    "name": "Babar Azam",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "896",
+                    "avg": "54.22",
+                    "img": "8359.jpg"
+                },
+                {
+                    "rank": "2",
+                    "id": "8085",
+                    "name": "Colin Munro",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "825",
+                    "avg": "33.60",
+                    "img": "8085.jpg"
+                },
+                {
+                    "rank": "3",
+                    "id": "7662",
+                    "name": "Glenn Maxwell",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "815",
+                    "avg": "34.41",
+                    "img": "7662.jpg"
+                },
+                {
+                    "rank": "4",
+                    "id": "1643",
+                    "name": "Aaron Finch",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "782",
+                    "avg": "37.13",
+                    "img": "1643.jpg"
+                },
+                {
+                    "rank": "5",
+                    "id": "12068",
+                    "name": "Hazratullah Zazai",
+                    "country": "Afghanistan",
+                    "country_id": "96",
+                    "rating": "718",
+                    "avg": "75.60",
+                    "img": "12068.jpg"
+                },
+                {
+                    "rank": "6",
+                    "id": "11050",
+                    "name": "D Arcy Short",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "715",
+                    "avg": "32.89",
+                    "img": "11050.jpg"
+                },
+                {
+                    "rank": "7",
+                    "id": "8733",
+                    "name": "Lokesh Rahul",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "689",
+                    "avg": "42.81",
+                    "img": "8733.jpg"
+                },
+                {
+                    "rank": "8",
+                    "id": "10863",
+                    "name": "Fakhar Zaman",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "681",
+                    "avg": "25.79",
+                    "img": "10863.jpg"
+                },
+                {
+                    "rank": "9",
+                    "id": "576",
+                    "name": "Rohit Sharma",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "678",
+                    "avg": "32.73",
+                    "img": "576.jpg"
+                },
+                {
+                    "rank": "10",
+                    "id": "6734",
+                    "name": "Alex Hales",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "664",
+                    "avg": "31.02",
+                    "img": "6734.jpg"
+                },
+                {
+                    "rank": "11",
+                    "id": "6326",
+                    "name": "Kane Williamson",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "655",
+                    "avg": "31.35",
+                    "img": "6326.jpg"
+                },
+                {
+                    "rank": "12",
+                    "id": "1457",
+                    "name": "Martin Guptill",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "650",
+                    "avg": "33.91",
+                    "img": "1457.jpg"
+                },
+                {
+                    "rank": "13",
+                    "id": "9491",
+                    "name": "Reeza Hendricks",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "647",
+                    "avg": "27.95",
+                    "img": "9491.jpg"
+                },
+                {
+                    "rank": "14",
+                    "id": "1413",
+                    "name": "Virat Kohli",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "642",
+                    "avg": "49.35",
+                    "img": "1413.jpg"
+                },
+                {
+                    "rank": "15",
+                    "id": "6534",
+                    "name": "Jason Roy",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "635",
+                    "avg": "23.22",
+                    "img": "6534.jpg"
+                }
+            ],
+            "bowling": [
+                {
+                    "rank": "1",
+                    "id": "10738",
+                    "name": "Rashid Khan",
+                    "country": "Afghanistan",
+                    "country_id": "96",
+                    "rating": "780",
+                    "avg": "11.56",
+                    "img": "10738.jpg"
+                },
+                {
+                    "rank": "2",
+                    "id": "10408",
+                    "name": "Imad Wasim",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "710",
+                    "avg": "19.54",
+                    "img": "10408.jpg"
+                },
+                {
+                    "rank": "3",
+                    "id": "11186",
+                    "name": "Shadab Khan",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "706",
+                    "avg": "18.59",
+                    "img": "11186.jpg"
+                },
+                {
+                    "rank": "4",
+                    "id": "1742",
+                    "name": "Adil Rashid",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "702",
+                    "avg": "24.86",
+                    "img": "1742.jpg"
+                },
+                {
+                    "rank": "5",
+                    "id": "8642",
+                    "name": "Adam Zampa",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "672",
+                    "avg": "19.43",
+                    "img": "8642.jpg"
+                },
+                {
+                    "rank": "6",
+                    "id": "544",
+                    "name": "Shakib Al Hasan",
+                    "country": "Bangladesh",
+                    "country_id": "6",
+                    "rating": "658",
+                    "avg": "20.16",
+                    "img": "544.jpg"
+                },
+                {
+                    "rank": "7",
+                    "id": "8292",
+                    "name": "Kuldeep Yadav",
+                    "country": "India",
+                    "country_id": "2",
+                    "rating": "658",
+                    "avg": "12.97",
+                    "img": "8292.jpg"
+                },
+                {
+                    "rank": "8",
+                    "id": "8561",
+                    "name": "Ish Sodhi",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "657",
+                    "avg": "20.88",
+                    "img": "8561.jpg"
+                },
+                {
+                    "rank": "9",
+                    "id": "9601",
+                    "name": "Andile Phehlukwayo",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "649",
+                    "avg": "17.93",
+                    "img": "9601.jpg"
+                },
+                {
+                    "rank": "10",
+                    "id": "11265",
+                    "name": "Faheem Ashraf",
+                    "country": "Pakistan",
+                    "country_id": "3",
+                    "rating": "641",
+                    "avg": "21.96",
+                    "img": "11265.jpg"
+                },
+                {
+                    "rank": "11",
+                    "id": "10100",
+                    "name": "Mitchell Santner",
+                    "country": "New Zealand",
+                    "country_id": "13",
+                    "rating": "638",
+                    "avg": "21.15",
+                    "img": "10100.jpg"
+                },
+                {
+                    "rank": "12",
+                    "id": "6592",
+                    "name": "David Willey",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "636",
+                    "avg": "22.38",
+                    "img": "6592.jpg"
+                },
+                {
+                    "rank": "13",
+                    "id": "6532",
+                    "name": "Chris Jordan",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "635",
+                    "avg": "25.45",
+                    "img": "6532.jpg"
+                },
+                {
+                    "rank": "14",
+                    "id": "3007",
+                    "name": "Mohammad Nabi",
+                    "country": "Afghanistan",
+                    "country_id": "96",
+                    "rating": "628",
+                    "avg": "24.51",
+                    "img": "3007.jpg"
+                },
+                {
+                    "rank": "15",
+                    "id": "479",
+                    "name": "Liam Plunkett",
+                    "country": "England",
+                    "country_id": "9",
+                    "rating": "617",
+                    "avg": "25.08",
+                    "img": "479.jpg"
+                }
+            ],
+            "allrounder": [
+                {
+                    "rank": "1",
+                    "id": "7662",
+                    "name": "Glenn Maxwell",
+                    "country": "Australia",
+                    "country_id": "4",
+                    "rating": "390",
+                    "avg": "",
+                    "img": "7662.jpg"
+                },
+                {
+                    "rank": "2",
+                    "id": "544",
+                    "name": "Shakib Al Hasan",
+                    "country": "Bangladesh",
+                    "country_id": "6",
+                    "rating": "338",
+                    "avg": "",
+                    "img": "544.jpg"
+                },
+                {
+                    "rank": "3",
+                    "id": "3007",
+                    "name": "Mohammad Nabi",
+                    "country": "Afghanistan",
+                    "country_id": "96",
+                    "rating": "330",
+                    "avg": "",
+                    "img": "3007.jpg"
+                },
+                {
+                    "rank": "4",
+                    "id": "1121",
+                    "name": "Mahmudullah",
+                    "country": "Bangladesh",
+                    "country_id": "6",
+                    "rating": "240",
+                    "avg": "",
+                    "img": "1121.jpg"
+                },
+                {
+                    "rank": "5",
+                    "id": "441",
+                    "name": "Sean Williams",
+                    "country": "Zimbabwe",
+                    "country_id": "12",
+                    "rating": "223",
+                    "avg": "",
+                    "img": "441.jpg"
+                },
+                {
+                    "rank": "6",
+                    "id": "1398",
+                    "name": "Richie Berrington",
+                    "country": "Scotland",
+                    "country_id": "23",
+                    "rating": "221",
+                    "avg": "",
+                    "img": "1398.jpg"
+                },
+                {
+                    "rank": "7",
+                    "id": "1114",
+                    "name": "Paul Stirling",
+                    "country": "Ireland",
+                    "country_id": "27",
+                    "rating": "212",
+                    "avg": "",
+                    "img": "1114.jpg"
+                },
+                {
+                    "rank": "8",
+                    "id": "2281",
+                    "name": "Thisara Perera",
+                    "country": "Sri Lanka",
+                    "country_id": "5",
+                    "rating": "210",
+                    "avg": "",
+                    "img": "2281.jpg"
+                },
+                {
+                    "rank": "9",
+                    "id": "211",
+                    "name": "Jean-Paul Duminy",
+                    "country": "South Africa",
+                    "country_id": "11",
+                    "rating": "185",
+                    "avg": "",
+                    "img": "211.jpg"
+                },
+                {
+                    "rank": "10",
+                    "id": "690",
+                    "name": "Kevin O Brien",
+                    "country": "Ireland",
+                    "country_id": "27",
+                    "rating": "179",
+                    "avg": "",
+                    "img": "690.jpg"
+                }
+            ]
+        }
+    },
+    "team": {
+        "TEST": [
+            {
+                "rank": "1",
+                "name": "India",
+                "id": "2",
+                "points": "3763",
+                "rating": "114",
+                "matches": "33",
+                "img": "team_2_50.png"
+            },
+            {
+                "rank": "2",
+                "name": "New Zealand",
+                "id": "13",
+                "points": "2736",
+                "rating": "109",
+                "matches": "25",
+                "img": "team_13_50.png"
+            },
+            {
+                "rank": "3",
+                "name": "South Africa",
+                "id": "11",
+                "points": "2917",
+                "rating": "108",
+                "matches": "27",
+                "img": "team_11_50.png"
+            },
+            {
+                "rank": "4",
+                "name": "England",
+                "id": "9",
+                "points": "4076",
+                "rating": "105",
+                "matches": "39",
+                "img": "team_9_50.png"
+            },
+            {
+                "rank": "5",
+                "name": "Australia",
+                "id": "4",
+                "points": "2951",
+                "rating": "98",
+                "matches": "30",
+                "img": "team_4_50.png"
+            },
+            {
+                "rank": "6",
+                "name": "Sri Lanka",
+                "id": "5",
+                "points": "3681",
+                "rating": "94",
+                "matches": "39",
+                "img": "team_5_50.png"
+            },
+            {
+                "rank": "7",
+                "name": "Pakistan",
+                "id": "3",
+                "points": "2263",
+                "rating": "84",
+                "matches": "27",
+                "img": "team_3_50.png"
+            },
+            {
+                "rank": "8",
+                "name": "West Indies",
+                "id": "10",
+                "points": "2444",
+                "rating": "81",
+                "matches": "30",
+                "img": "team_10_50.png"
+            },
+            {
+                "rank": "9",
+                "name": "Bangladesh",
+                "id": "6",
+                "points": "1438",
+                "rating": "65",
+                "matches": "22",
+                "img": "team_6_50.png"
+            },
+            {
+                "rank": "10",
+                "name": "Zimbabwe",
+                "id": "12",
+                "points": "140",
+                "rating": "16",
+                "matches": "9",
+                "img": "team_12_50.png"
+            }
+        ],
+        "ODI": [
+            {
+                "rank": "1",
+                "name": "England",
+                "id": "9",
+                "points": "6745",
+                "rating": "125",
+                "matches": "54",
+                "img": "team_9_50.png"
+            },
+            {
+                "rank": "2",
+                "name": "India",
+                "id": "2",
+                "points": "7071",
+                "rating": "122",
+                "matches": "58",
+                "img": "team_2_50.png"
+            },
+            {
+                "rank": "3",
+                "name": "New Zealand",
+                "id": "13",
+                "points": "4837",
+                "rating": "112",
+                "matches": "43",
+                "img": "team_13_50.png"
+            },
+            {
+                "rank": "4",
+                "name": "Australia",
+                "id": "4",
+                "points": "5543",
+                "rating": "111",
+                "matches": "50",
+                "img": "team_4_50.png"
+            },
+            {
+                "rank": "5",
+                "name": "South Africa",
+                "id": "11",
+                "points": "5193",
+                "rating": "110",
+                "matches": "47",
+                "img": "team_11_50.png"
+            },
+            {
+                "rank": "6",
+                "name": "Pakistan",
+                "id": "3",
+                "points": "4756",
+                "rating": "97",
+                "matches": "49",
+                "img": "team_3_50.png"
+            },
+            {
+                "rank": "7",
+                "name": "Bangladesh",
+                "id": "6",
+                "points": "3963",
+                "rating": "86",
+                "matches": "46",
+                "img": "team_6_50.png"
+            },
+            {
+                "rank": "8",
+                "name": "Sri Lanka",
+                "id": "5",
+                "points": "4425",
+                "rating": "82",
+                "matches": "54",
+                "img": "team_5_50.png"
+            },
+            {
+                "rank": "9",
+                "name": "West Indies",
+                "id": "10",
+                "points": "3740",
+                "rating": "76",
+                "matches": "49",
+                "img": "team_10_50.png"
+            },
+            {
+                "rank": "10",
+                "name": "Afghanistan",
+                "id": "96",
+                "points": "2359",
+                "rating": "59",
+                "matches": "40",
+                "img": "team_96_50.png"
+            },
+            {
+                "rank": "11",
+                "name": "Ireland",
+                "id": "27",
+                "points": "1466",
+                "rating": "51",
+                "matches": "29",
+                "img": "team_27_50.png"
+            },
+            {
+                "rank": "12",
+                "name": "Zimbabwe",
+                "id": "12",
+                "points": "1538",
+                "rating": "44",
+                "matches": "35",
+                "img": "team_12_50.png"
+            },
+            {
+                "rank": "13",
+                "name": "Netherlands",
+                "id": "24",
+                "points": "222",
+                "rating": "37",
+                "matches": "6",
+                "img": "team_24_50.png"
+            },
+            {
+                "rank": "14",
+                "name": "Scotland",
+                "id": "23",
+                "points": "534",
+                "rating": "36",
+                "matches": "15",
+                "img": "team_23_50.png"
+            },
+            {
+                "rank": "15",
+                "name": "Oman",
+                "id": "304",
+                "points": "174",
+                "rating": "22",
+                "matches": "8",
+                "img": "team_304_50.png"
+            },
+            {
+                "rank": "16",
+                "name": "Nepal",
+                "id": "72",
+                "points": "152",
+                "rating": "19",
+                "matches": "8",
+                "img": "team_72_50.png"
+            },
+            {
+                "rank": "17",
+                "name": "UAE",
+                "id": "7",
+                "points": "144",
+                "rating": "10",
+                "matches": "15",
+                "img": "team_7_50.png"
+            },
+            {
+                "rank": "18",
+                "name": "Papua New Guinea",
+                "id": "287",
+                "points": "0",
+                "rating": "0",
+                "matches": "13",
+                "img": "team_287_50.png"
+            }
+        ],
+        "T20": [
+            {
+                "rank": "1",
+                "name": "Pakistan",
+                "id": "3",
+                "points": "7365",
+                "rating": "283",
+                "matches": "26",
+                "img": "team_3_50.png"
+            },
+            {
+                "rank": "2",
+                "name": "England",
+                "id": "9",
+                "points": "4253",
+                "rating": "266",
+                "matches": "16",
+                "img": "team_9_50.png"
+            },
+            {
+                "rank": "3",
+                "name": "South Africa",
+                "id": "11",
+                "points": "4196",
+                "rating": "262",
+                "matches": "16",
+                "img": "team_11_50.png"
+            },
+            {
+                "rank": "4",
+                "name": "India",
+                "id": "2",
+                "points": "8099",
+                "rating": "261",
+                "matches": "31",
+                "img": "team_2_50.png"
+            },
+            {
+                "rank": "5",
+                "name": "Australia",
+                "id": "4",
+                "points": "5471",
+                "rating": "261",
+                "matches": "21",
+                "img": "team_4_50.png"
+            },
+            {
+                "rank": "6",
+                "name": "New Zealand",
+                "id": "13",
+                "points": "4056",
+                "rating": "254",
+                "matches": "16",
+                "img": "team_13_50.png"
+            },
+            {
+                "rank": "7",
+                "name": "Afghanistan",
+                "id": "96",
+                "points": "3849",
+                "rating": "241",
+                "matches": "16",
+                "img": "team_96_50.png"
+            },
+            {
+                "rank": "8",
+                "name": "Sri Lanka",
+                "id": "5",
+                "points": "4093",
+                "rating": "227",
+                "matches": "18",
+                "img": "team_5_50.png"
+            },
+            {
+                "rank": "9",
+                "name": "West Indies",
+                "id": "10",
+                "points": "5378",
+                "rating": "224",
+                "matches": "24",
+                "img": "team_10_50.png"
+            },
+            {
+                "rank": "10",
+                "name": "Bangladesh",
+                "id": "6",
+                "points": "3525",
+                "rating": "220",
+                "matches": "16",
+                "img": "team_6_50.png"
+            },
+            {
+                "rank": "11",
+                "name": "Nepal",
+                "id": "72",
+                "points": "2818",
+                "rating": "201",
+                "matches": "14",
+                "img": "team_72_50.png"
+            },
+            {
+                "rank": "12",
+                "name": "Scotland",
+                "id": "23",
+                "points": "2185",
+                "rating": "199",
+                "matches": "11",
+                "img": "team_23_50.png"
+            },
+            {
+                "rank": "13",
+                "name": "UAE",
+                "id": "7",
+                "points": "3486",
+                "rating": "194",
+                "matches": "18",
+                "img": "team_7_50.png"
+            },
+            {
+                "rank": "14",
+                "name": "Zimbabwe",
+                "id": "12",
+                "points": "2376",
+                "rating": "183",
+                "matches": "13",
+                "img": "team_12_50.png"
+            },
+            {
+                "rank": "15",
+                "name": "Ireland",
+                "id": "27",
+                "points": "3817",
+                "rating": "182",
+                "matches": "21",
+                "img": "team_27_50.png"
+            },
+            {
+                "rank": "16",
+                "name": "Netherlands",
+                "id": "24",
+                "points": "2710",
+                "rating": "181",
+                "matches": "15",
+                "img": "team_24_50.png"
+            },
+            {
+                "rank": "17",
+                "name": "Papua New Guinea",
+                "id": "287",
+                "points": "3834",
+                "rating": "174",
+                "matches": "22",
+                "img": "team_287_50.png"
+            },
+            {
+                "rank": "18",
+                "name": "Oman",
+                "id": "304",
+                "points": "774",
+                "rating": "155",
+                "matches": "5",
+                "img": "team_304_50.png"
+            },
+            {
+                "rank": "19",
+                "name": "Hong Kong",
+                "id": "8",
+                "points": "1213",
+                "rating": "152",
+                "matches": "8",
+                "img": "team_8_50.png"
+            },
+            {
+                "rank": "20",
+                "name": "Namibia",
+                "id": "161",
+                "points": "2038",
+                "rating": "146",
+                "matches": "14",
+                "img": "team_161_50.png"
+            },
+            {
+                "rank": "21",
+                "name": "Singapore",
+                "id": "190",
+                "points": "1707",
+                "rating": "131",
+                "matches": "13",
+                "img": "team_190_50.png"
+            },
+            {
+                "rank": "22",
+                "name": "Qatar",
+                "id": "525",
+                "points": "2262",
+                "rating": "126",
+                "matches": "18",
+                "img": "team_525_50.png"
+            },
+            {
+                "rank": "23",
+                "name": "Saudi Arabia",
+                "id": "571",
+                "points": "1331",
+                "rating": "121",
+                "matches": "11",
+                "img": "team_571_50.png"
+            },
+            {
+                "rank": "24",
+                "name": "Canada",
+                "id": "26",
+                "points": "1568",
+                "rating": "121",
+                "matches": "13",
+                "img": "team_26_50.png"
+            },
+            {
+                "rank": "25",
+                "name": "Jersey",
+                "id": "303",
+                "points": "1834",
+                "rating": "115",
+                "matches": "16",
+                "img": "team_303_50.png"
+            },
+            {
+                "rank": "26",
+                "name": "Italy",
+                "id": "527",
+                "points": "1121",
+                "rating": "112",
+                "matches": "10",
+                "img": "team_527_50.png"
+            },
+            {
+                "rank": "27",
+                "name": "Denmark",
+                "id": "185",
+                "points": "1277",
+                "rating": "106",
+                "matches": "12",
+                "img": "team_185_50.png"
+            },
+            {
+                "rank": "28",
+                "name": "Kuwait",
+                "id": "298",
+                "points": "1354",
+                "rating": "104",
+                "matches": "13",
+                "img": "team_298_50.png"
+            },
+            {
+                "rank": "29",
+                "name": "Kenya",
+                "id": "14",
+                "points": "1229",
+                "rating": "102",
+                "matches": "12",
+                "img": "team_14_50.png"
+            },
+            {
+                "rank": "30",
+                "name": "Bermuda",
+                "id": "25",
+                "points": "716",
+                "rating": "102",
+                "matches": "7",
+                "img": "team_25_50.png"
+            },
+            {
+                "rank": "31",
+                "name": "Germany",
+                "id": "77",
+                "points": "1535",
+                "rating": "85",
+                "matches": "18",
+                "img": "team_77_50.png"
+            },
+            {
+                "rank": "32",
+                "name": "United States",
+                "id": "15",
+                "points": "1208",
+                "rating": "81",
+                "matches": "15",
+                "img": "team_15_50.png"
+            },
+            {
+                "rank": "33",
+                "name": "Botswana",
+                "id": "529",
+                "points": "1355",
+                "rating": "80",
+                "matches": "17",
+                "img": "team_529_50.png"
+            },
+            {
+                "rank": "34",
+                "name": "Ghana",
+                "id": "531",
+                "points": "773",
+                "rating": "77",
+                "matches": "10",
+                "img": "team_531_50.png"
+            },
+            {
+                "rank": "35",
+                "name": "Malaysia",
+                "id": "71",
+                "points": "1620",
+                "rating": "77",
+                "matches": "21",
+                "img": "team_71_50.png"
+            },
+            {
+                "rank": "36",
+                "name": "Uganda",
+                "id": "44",
+                "points": "1069",
+                "rating": "76",
+                "matches": "14",
+                "img": "team_44_50.png"
+            },
+            {
+                "rank": "37",
+                "name": "Austria",
+                "id": "532",
+                "points": "439",
+                "rating": "73",
+                "matches": "6",
+                "img": "team_532_50.png"
+            },
+            {
+                "rank": "39",
+                "name": "Nigeria",
+                "id": "536",
+                "points": "708",
+                "rating": "71",
+                "matches": "10",
+                "img": "team_536_50.png"
+            },
+            {
+                "rank": "40",
+                "name": "Guernsey",
+                "id": "533",
+                "points": "969",
+                "rating": "65",
+                "matches": "15",
+                "img": "team_533_50.png"
+            },
+            {
+                "rank": "41",
+                "name": "Sweden",
+                "id": "534",
+                "points": "465",
+                "rating": "58",
+                "matches": "8",
+                "img": "team_534_50.png"
+            },
+            {
+                "rank": "42",
+                "name": "Tanzania",
+                "id": "535",
+                "points": "334",
+                "rating": "56",
+                "matches": "6",
+                "img": "team_535_50.png"
+            },
+            {
+                "rank": "43",
+                "name": "Luxembourg",
+                "id": "537",
+                "points": "328",
+                "rating": "55",
+                "matches": "6",
+                "img": "team_537_50.png"
+            },
+            {
+                "rank": "45",
+                "name": "Spain",
+                "id": "523",
+                "points": "602",
+                "rating": "50",
+                "matches": "12",
+                "img": "team_523_50.png"
+            },
+            {
+                "rank": "46",
+                "name": "Philippines",
+                "id": "538",
+                "points": "433",
+                "rating": "48",
+                "matches": "9",
+                "img": "team_538_50.png"
+            },
+            {
+                "rank": "47",
+                "name": "France",
+                "id": "539",
+                "points": "267",
+                "rating": "45",
+                "matches": "6",
+                "img": "team_539_50.png"
+            },
+            {
+                "rank": "48",
+                "name": "Belize",
+                "id": "540",
+                "points": "377",
+                "rating": "42",
+                "matches": "9",
+                "img": "team_540_50.png"
+            },
+            {
+                "rank": "49",
+                "name": "Peru",
+                "id": "542",
+                "points": "356",
+                "rating": "40",
+                "matches": "9",
+                "img": "team_542_50.png"
+            },
+            {
+                "rank": "50",
+                "name": "Bahrain",
+                "id": "543",
+                "points": "261",
+                "rating": "37",
+                "matches": "7",
+                "img": "team_543_50.png"
+            },
+            {
+                "rank": "51",
+                "name": "Mexico",
+                "id": "544",
+                "points": "426",
+                "rating": "36",
+                "matches": "12",
+                "img": "team_544_50.png"
+            },
+            {
+                "rank": "52",
+                "name": "Fiji",
+                "id": "343",
+                "points": "210",
+                "rating": "35",
+                "matches": "6",
+                "img": "team_343_50.png"
+            },
+            {
+                "rank": "53",
+                "name": "Panama",
+                "id": "546",
+                "points": "291",
+                "rating": "32",
+                "matches": "9",
+                "img": "team_546_50.png"
+            },
+            {
+                "rank": "54",
+                "name": "Belgium",
+                "id": "541",
+                "points": "290",
+                "rating": "32",
+                "matches": "9",
+                "img": "team_541_50.png"
+            },
+            {
+                "rank": "55",
+                "name": "Samoa",
+                "id": "545",
+                "points": "317",
+                "rating": "32",
+                "matches": "10",
+                "img": "team_545_50.png"
+            },
+            {
+                "rank": "56",
+                "name": "Japan",
+                "id": "547",
+                "points": "317",
+                "rating": "32",
+                "matches": "10",
+                "img": "team_547_50.png"
+            },
+            {
+                "rank": "57",
+                "name": "Costa Rica",
+                "id": "548",
+                "points": "252",
+                "rating": "32",
+                "matches": "8",
+                "img": "team_548_50.png"
+            },
+            {
+                "rank": "58",
+                "name": "Vanuatu",
+                "id": "300",
+                "points": "464",
+                "rating": "31",
+                "matches": "15",
+                "img": "team_300_50.png"
+            },
+            {
+                "rank": "59",
+                "name": "Argentina",
+                "id": "549",
+                "points": "370",
+                "rating": "31",
+                "matches": "12",
+                "img": "team_549_50.png"
+            },
+            {
+                "rank": "60",
+                "name": "Hungary",
+                "id": "550",
+                "points": "180",
+                "rating": "30",
+                "matches": "6",
+                "img": "team_550_50.png"
+            },
+            {
+                "rank": "61",
+                "name": "Mozambique",
+                "id": "551",
+                "points": "352",
+                "rating": "29",
+                "matches": "12",
+                "img": "team_551_50.png"
+            },
+            {
+                "rank": "62",
+                "name": "Thailand",
+                "id": "384",
+                "points": "369",
+                "rating": "26",
+                "matches": "14",
+                "img": "team_384_50.png"
+            },
+            {
+                "rank": "63",
+                "name": "Chile",
+                "id": "552",
+                "points": "249",
+                "rating": "25",
+                "matches": "10",
+                "img": "team_552_50.png"
+            },
+            {
+                "rank": "64",
+                "name": "Malawi",
+                "id": "553",
+                "points": "297",
+                "rating": "25",
+                "matches": "12",
+                "img": "team_553_50.png"
+            },
+            {
+                "rank": "65",
+                "name": "Israel",
+                "id": "554",
+                "points": "173",
+                "rating": "25",
+                "matches": "7",
+                "img": "team_554_50.png"
+            },
+            {
+                "rank": "66",
+                "name": "Finland",
+                "id": "556",
+                "points": "296",
+                "rating": "23",
+                "matches": "13",
+                "img": "team_556_50.png"
+            },
+            {
+                "rank": "67",
+                "name": "Bhutan",
+                "id": "555",
+                "points": "180",
+                "rating": "23",
+                "matches": "8",
+                "img": "team_555_50.png"
+            },
+            {
+                "rank": "68",
+                "name": "South Korea",
+                "id": "299",
+                "points": "217",
+                "rating": "22",
+                "matches": "10",
+                "img": "team_299_50.png"
+            },
+            {
+                "rank": "69",
+                "name": "Isle of Man",
+                "id": "557",
+                "points": "149",
+                "rating": "21",
+                "matches": "7",
+                "img": "team_557_50.png"
+            },
+            {
+                "rank": "70",
+                "name": "Malta",
+                "id": "522",
+                "points": "158",
+                "rating": "14",
+                "matches": "11",
+                "img": "team_522_50.png"
+            },
+            {
+                "rank": "71",
+                "name": "Bulgaria",
+                "id": "558",
+                "points": "68",
+                "rating": "14",
+                "matches": "5",
+                "img": "team_558_50.png"
+            },
+            {
+                "rank": "72",
+                "name": "Sierra Leone",
+                "id": "559",
+                "points": "61",
+                "rating": "12",
+                "matches": "5",
+                "img": "team_559_50.png"
+            },
+            {
+                "rank": "73",
+                "name": "Brazil",
+                "id": "560",
+                "points": "108",
+                "rating": "12",
+                "matches": "9",
+                "img": "team_560_50.png"
+            },
+            {
+                "rank": "74",
+                "name": "Maldives",
+                "id": "563",
+                "points": "114",
+                "rating": "10",
+                "matches": "11",
+                "img": "team_563_50.png"
+            },
+            {
+                "rank": "75",
+                "name": "Czech Republic",
+                "id": "561",
+                "points": "91",
+                "rating": "9",
+                "matches": "10",
+                "img": "team_561_50.png"
+            },
+            {
+                "rank": "76",
+                "name": "Saint Helena",
+                "id": "562",
+                "points": "109",
+                "rating": "9",
+                "matches": "12",
+                "img": "team_562_50.png"
+            },
+            {
+                "rank": "77",
+                "name": "Gibraltar",
+                "id": "564",
+                "points": "35",
+                "rating": "4",
+                "matches": "8",
+                "img": "team_564_50.png"
+            },
+            {
+                "rank": "78",
+                "name": "Myanmar",
+                "id": "565",
+                "points": "23",
+                "rating": "3",
+                "matches": "9",
+                "img": "team_565_50.png"
+            },
+            {
+                "rank": "79",
+                "name": "Indonesia",
+                "id": "566",
+                "points": "3",
+                "rating": "0",
+                "matches": "7",
+                "img": "team_566_50.png"
+            },
+            {
+                "rank": "80",
+                "name": "China",
+                "id": "524",
+                "points": "0",
+                "rating": "0",
+                "matches": "11",
+                "img": "team_524_50.png"
+            },
+            {
+                "rank": "81",
+                "name": "Gambia",
+                "id": "567",
+                "points": "0",
+                "rating": "0",
+                "matches": "6",
+                "img": "team_567_50.png"
+            },
+            {
+                "rank": "82",
+                "name": "Swaziland",
+                "id": "568",
+                "points": "0",
+                "rating": "0",
+                "matches": "6",
+                "img": "team_568_50.png"
+            },
+            {
+                "rank": "83",
+                "name": "Rwanda",
+                "id": "569",
+                "points": "0",
+                "rating": "0",
+                "matches": "6",
+                "img": "team_569_50.png"
+            },
+            {
+                "rank": "84",
+                "name": "Lesotho",
+                "id": "570",
+                "points": "0",
+                "rating": "0",
+                "matches": "6",
+                "img": "team_570_50.png"
+            }
+        ]
+    }
+}

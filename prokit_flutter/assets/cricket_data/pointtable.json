@@ -1,0 +1,155 @@
+{
+    "series_id": "2697",
+    "series_name": "ICC Cricket Cricket 2019",
+    "min_qual": {
+        "Teams": "0"
+    },
+    "order": [
+        "Teams"
+    ],
+    "title": [
+        "Team",
+        "P",
+        "W",
+        "L",
+        "T",
+        "NR",
+        "Pts",
+        "NRR"
+    ],
+    "header": [
+        "name",
+        "p",
+        "w",
+        "l",
+        "t",
+        "nr",
+        "points",
+        "nrr"
+    ],
+    "consider_group": true,
+    "group": {
+        "teams": [
+            {
+                "id": "2",
+                "name": "India",
+                "sName": "IND",
+                "p": "9",
+                "w": "7",
+                "l": "1",
+                "nr": "1",
+                "t": "0",
+                "points": "15",
+                "nrr": "+0.809"
+            },
+            {
+                "id": "4",
+                "name": "Australia",
+                "sName": "AUS",
+                "p": "9",
+                "w": "7",
+                "l": "2",
+                "nr": "0",
+                "t": "0",
+                "points": "14",
+                "nrr": "+0.868"
+            },
+            {
+                "id": "9",
+                "name": "England",
+                "sName": "ENG",
+                "p": "9",
+                "w": "6",
+                "l": "3",
+                "nr": "0",
+                "t": "0",
+                "points": "12",
+                "nrr": "+1.152"
+            },
+            {
+                "id": "13",
+                "name": "New Zealand",
+                "sName": "NZ",
+                "p": "9",
+                "w": "5",
+                "l": "3",
+                "nr": "1",
+                "t": "0",
+                "points": "11",
+                "nrr": "+0.175"
+            },
+            {
+                "id": "3",
+                "name": "Pakistan",
+                "sName": "PAK",
+                "p": "9",
+                "w": "5",
+                "l": "3",
+                "nr": "1",
+                "t": "0",
+                "points": "11",
+                "nrr": "-0.430"
+            },
+            {
+                "id": "5",
+                "name": "Sri Lanka",
+                "sName": "SL",
+                "p": "9",
+                "w": "3",
+                "l": "4",
+                "nr": "2",
+                "t": "0",
+                "points": "8",
+                "nrr": "-0.919"
+            },
+            {
+                "id": "11",
+                "name": "South Africa",
+                "sName": "RSA",
+                "p": "9",
+                "w": "3",
+                "l": "5",
+                "nr": "1",
+                "t": "0",
+                "points": "7",
+                "nrr": "-0.030"
+            },
+            {
+                "id": "6",
+                "name": "Bangladesh",
+                "sName": "BAN",
+                "p": "9",
+                "w": "3",
+                "l": "5",
+                "nr": "1",
+                "t": "0",
+                "points": "7",
+                "nrr": "-0.410"
+            },
+            {
+                "id": "10",
+                "name": "West Indies",
+                "sName": "WI",
+                "p": "9",
+                "w": "2",
+                "l": "6",
+                "nr": "1",
+                "t": "0",
+                "points": "5",
+                "nrr": "-0.225"
+            },
+            {
+                "id": "96",
+                "name": "Afghanistan",
+                "sName": "AFG",
+                "p": "9",
+                "w": "0",
+                "l": "9",
+                "nr": "0",
+                "t": "0",
+                "points": "0",
+                "nrr": "-1.322"
+            }
+        ]
+    }
+}

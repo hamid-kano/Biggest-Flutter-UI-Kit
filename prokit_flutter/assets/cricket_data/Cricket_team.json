@@ -1,0 +1,861 @@
+{
+    "Cricket_Team": [
+        {
+            "teamName": "India",
+            "sName": "IND",
+            "teamIcon": "o/csk.png?alt=media&token=c68548ef-95d6-401b-8b41-f91e47f4f368",
+            "coachName": "Ravi Shastri",
+            "teamPlayers": [
+                {
+                    "id": "1413",
+                    "playerName": "Virat Kohli",
+                    "role": "Batsman",
+                    "isCaptain": true
+                },
+                {
+                    "id": "576",
+                    "playerName": "Rohit Sharma",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "1446",
+                    "playerName": "Shikhar Dhawan",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8204",
+                    "playerName": "Vijay Shankar",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "1851",
+                    "playerName": "Kedar Jadhav",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "9647",
+                    "playerName": "Hardik Pandya",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "587",
+                    "playerName": "Ravindra Jadeja",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "8733",
+                    "playerName": "Lokesh Rahul",
+                    "role": "WK-Batsman"
+                    
+                },
+                {
+                    "id": "265",
+                    "playerName": "MS Dhoni",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "145",
+                    "playerName": "Dinesh Karthik",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "8292",
+                    "playerName": "Kuldeep Yadav",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "7910",
+                    "playerName": "Yuzvendra Chahal",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "7909",
+                    "playerName": "Mohammed Shami",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "9311",
+                    "playerName": "Jasprit Bumrah",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "1726",
+                    "playerName": "Bhuvneshwar Kumar",
+                    "role": "Bowler"
+                }
+            ]
+        },
+        {
+            "teamName": "New Zealand",
+            "sName": "NZ",
+            "teamIcon": "o/ic_delhi_capital.png?alt=media&token=852bc7ee-bceb-4f27-be52-ca533b1d79bd",
+            "coachName": "Gary Stead",
+            "teamPlayers": [
+                {
+                    "id": "6326",
+                    "playerName": "Kane Williamson",
+                    "role": "Batsman",
+                    "isCaptain": true
+                },
+                {
+                    "id": "1457",
+                    "playerName": "Martin Guptill",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "521",
+                    "playerName": "Ross Taylor",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8085",
+                    "playerName": "Colin Munro",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "8081",
+                    "playerName": "Colin de Grandhomme",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "8983",
+                    "playerName": "James Neesham",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "10100",
+                    "playerName": "Mitchell Santner",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "10717",
+                    "playerName": "Tom Blundell",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "8216",
+                    "playerName": "Tom Latham",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "10694",
+                    "playerName": "Henry Nicholls",
+                    "role": "WK-Batsman"
+                },
+                {
+                    "id": "10692",
+                    "playerName": "Lockie Ferguson",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "8117",
+                    "playerName": "Trent Boult",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "9067",
+                    "playerName": "Matt Henry",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "8561",
+                    "playerName": "Ish Sodhi",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "1057",
+                    "playerName": "Tim Southee",
+                    "role": "Bowler"
+                }
+            ]
+        },
+        {
+            "teamName": "Australia",
+            "sName": "AUS",
+            "teamIcon": "o/k11p.png?alt=media&token=7ee268db-86de-41d4-9f89-e64608a745b9",
+            "coachName": "Justin Langer",
+            "teamPlayers": [
+                {
+                    "id": "1643",
+                    "playerName": "Aaron Finch",
+                    "role": "Batsman",
+                    "isCaptain": true
+                },
+                {
+                    "id": "1739",
+                    "playerName": "David Warner",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "6635",
+                    "playerName": "Usman Khawaja",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "2250",
+                    "playerName": "Steven Smith",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "563",
+                    "playerName": "Shaun Marsh",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "7662",
+                    "playerName": "Glenn Maxwell",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "8989",
+                    "playerName": "Marcus Stoinis",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "10280",
+                    "playerName": "Jhye Richardson",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "9200",
+                    "playerName": "Alex Carey",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "8095",
+                    "playerName": "Pat Cummins",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "7774",
+                    "playerName": "Nathan Coulter-Nile",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "7710",
+                    "playerName": "Mitchell Starc",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "7773",
+                    "playerName": "Jason Behrendorff",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "8642",
+                    "playerName": "Adam Zampa",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "7850",
+                    "playerName": "Nathan Lyon",
+                    "role": "Bowler"
+                }
+            ]
+        },
+        {
+            "teamName": "Bangladesh",
+            "sName": "BAN",
+            "teamIcon": "o/k11p.png?alt=media&token=7ee268db-86de-41d4-9f89-e64608a745b9",
+            "coachName": "Steve Rhodes",
+            "teamPlayers": [
+                {
+                    "id": "323",
+                    "playerName": "Mashrafe Mortaza",
+                    "role": "Bowler",
+                    "isCaptain": true
+                },
+                {
+                    "id": "612",
+                    "playerName": "Tamim Lqbal",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8233",
+                    "playerName": "Soumya Sarkar",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8231",
+                    "playerName": "Sabbir Rahaman",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "1121",
+                    "playerName": "Mahmudullah",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "544",
+                    "playerName": "Shakib Al Hasan",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "8541",
+                    "playerName": "Mosaddek Hossain",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "11084",
+                    "playerName": "Mohammad Saifuddin",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "11081",
+                    "playerName": "Mehidy Hasan",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "8540",
+                    "playerName": "Liton Das",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "394",
+                    "playerName": "Mushfiqur Rahim",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "8221",
+                    "playerName": "Mohammad Mithun",
+                    "role": "WK-Batsman"
+                    
+                },
+                {
+                    "id": "1736",
+                    "playerName": "Rubel Hossain",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "8536",
+                    "playerName": "Abu Jayed",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "9863",
+                    "playerName": "Mustafizur Rahman",
+                    "role": "Bowler"
+                }
+            ]
+        },
+        {
+            "teamName": "England",
+            "sName": "ENG",
+            "teamIcon": "o/k11p.png?alt=media&token=7ee268db-86de-41d4-9f89-e64608a745b9",
+            "coachName": "Trevor Bayliss",
+            "teamPlayers": [
+                {
+                    "id": "624",
+                    "playerName": "Eoin Morgan",
+                    "role": "Batsman",
+                    "isCaptain": true
+                },
+                {
+                    "id": "6534",
+                    "playerName": "Jason Roy",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8019",
+                    "playerName": "Joy Root",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "6734",
+                    "playerName": "Alex Hales",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "6557",
+                    "playerName": "Ben Stokes",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "6692",
+                    "playerName": "Moeen Ali",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "1995",
+                    "playerName": "Joe Denly",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "6670",
+                    "playerName": "Chirs Woakes",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "9522",
+                    "playerName": "Tom Curran",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "6592",
+                    "playerName": "David Willey",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "6507",
+                    "playerName": "Jonny Bairstow",
+                    "role": "WK-Batsman"
+                    
+                },
+                {
+                    "id": "2258",
+                    "playerName": "Jos Buttler",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "479",
+                    "playerName": "Liam Plunkett",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "1742",
+                    "playerName": "Adil Rashid",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "8383",
+                    "playerName": "Mark Wood",
+                    "role": "Bowler"
+                }
+            ]
+        },
+        {
+            "teamName": "Pakistan",
+            "sName": "PAK",
+            "teamIcon": "o/k11p.png?alt=media&token=7ee268db-86de-41d4-9f89-e64608a745b9",
+            "coachName": "Mickey Arthur",
+            "teamPlayers": [
+                {
+                    "id": "881",
+                    "playerName": "Sarfaraz Ahmed",
+                    "role": "Wk-Batsman",
+                    "isCaptain": true,
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "10863",
+                    "playerName": "Fakhar Zaman",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8364",
+                    "playerName": "Imam-ul-Haq",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8359",
+                    "playerName": "Babar Azam",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "11267",
+                    "playerName": "Abid Ali",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "33",
+                    "playerName": "Shoaib Mailk",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "360",
+                    "playerName": "Mohammad Hafeez",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "8299",
+                    "playerName": "Hairs Sohail",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "11186",
+                    "playerName": "Shadab Khan",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "11265",
+                    "playerName": "Faheem Ashraf",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "10408",
+                    "playerName": "Imad Wasim",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "12160",
+                    "playerName": "Shaheen Afridi",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "11320",
+                    "playerName": "Hasan Ali",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "7900",
+                    "playerName": "Junaid Khan",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "14248",
+                    "playerName": "Mohammad Hasnain",
+                    "role": "Bowler"
+                }
+            ]
+        },
+        {
+            "teamName": "South Africa",
+            "sName": "RSA",
+            "teamIcon": "o/k11p.png?alt=media&token=7ee268db-86de-41d4-9f89-e64608a745b9",
+            "coachName": "Ottis Gibson",
+            "teamPlayers": [
+                {
+                    "id": "7825",
+                    "playerName": "Faf du Plessis",
+                    "role": "Batsman",
+                    "isCaptain": true
+                },
+                {
+                    "id": "314",
+                    "playerName": "Hashim Amla",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "9582",
+                    "playerName": "Aiden Markam",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "9554",
+                    "playerName": "Rassie Van Der Dussen",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "6349",
+                    "playerName": "David Miller",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "211",
+                    "playerName": "Jean-Dual Dummiy",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "8651",
+                    "playerName": "Dwaine Pretorius",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "9601",
+                    "playerName": "Andile Phehlukwayo",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "8520",
+                    "playerName": "Quinton de Kock",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "508",
+                    "playerName": "Dale Steyn",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "9585",
+                    "playerName": "Kagiso Rabada",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "9603",
+                    "playerName": "Lungi Ngidi",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "11427",
+                    "playerName": "Anrich Nortje",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "6667",
+                    "playerName": "Imaran Tahir",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "10173",
+                    "playerName": "Tabraiz Shamsi",
+                    "role": "Bowler"
+                }
+            ]
+        },
+        {
+            "teamName": "Sri Lanka",
+            "sName": "SL",
+            "teamIcon": "o/k11p.png?alt=media&token=7ee268db-86de-41d4-9f89-e64608a745b9",
+            "coachName": "Chandika Hathurusingha",
+            "teamPlayers": [
+                {
+                    "id": "7952",
+                    "playerName": "Dimuth Karunaratne",
+                    "role": "Batsman",
+                    "isCaptain": true
+                },
+                {
+                    "id": "10939",
+                    "playerName": "Avishka Fernando",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "6243",
+                    "playerName": "Lahiru Thirimanne",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "1629",
+                    "playerName": "Angelo Mathews",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "7872",
+                    "playerName": "Dhananjaya de Silva",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "1920",
+                    "playerName": "Isuru Udana",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "7891",
+                    "playerName": "Milinda Siriwardana",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "2281",
+                    "playerName": "Thisara Perera",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "6470",
+                    "playerName": "Jeevan Mendis",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "8116",
+                    "playerName": "Kusal Perera",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "9494",
+                    "playerName": "Kusal Mendis",
+                    "role": "WK-Batsman"
+                    
+                },
+                {
+                    "id": "10469",
+                    "playerName": "Jeffrey Vandersay",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "111",
+                    "playerName": "Lasith Malinga",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "1785",
+                    "playerName": "Suranga Lakmal",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "6730",
+                    "playerName": "Nuwan Prdeep",
+                    "role": "Bowler"
+                }
+            ]
+        },
+        {
+            "teamName": "Afghanistan",
+            "sName": "AFG",
+            "teamIcon": "o/k11p.png?alt=media&token=7ee268db-86de-41d4-9f89-e64608a745b9",
+            "coachName": "Phil Simmons",
+            "teamPlayers": [
+                {
+                    "id": "8030",
+                    "playerName": "Gulbadin Naib",
+                    "role": "Bowling All-Rounder",
+                    "isCaptain": true
+                },
+                {
+                    "id": "3010",
+                    "playerName": "Noor Ali Zadran",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "12068",
+                    "playerName": "Hazratullah Zazai",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "3004",
+                    "playerName": "Asghar Afghan",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8277",
+                    "playerName": "Hashmatullah Shahidi",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8375",
+                    "playerName": "Najibullah Zadran",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8571",
+                    "playerName": "Rahmat Shah",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "3011",
+                    "playerName": "Samiullah Shenwari",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "3007",
+                    "playerName": "Mohammad Nabi",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "3014",
+                    "playerName": "Mohammad Shahzad",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "10738",
+                    "playerName": "Rashid Khan",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "8029",
+                    "playerName": "Dawlat Zadran",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "6476",
+                    "playerName": "Aftab Alam",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "3001",
+                    "playerName": "Hamid Hassan",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "12071",
+                    "playerName": "Mujeeb Ur Rahman",
+                    "role": "Bowler"
+                }
+            ]
+        },
+        {
+            "teamName": "Windies",
+            "sName": "WI",
+            "teamIcon": "o/k11p.png?alt=media&token=7ee268db-86de-41d4-9f89-e64608a745b9",
+            "coachName": "Floyd Lamonte Reifer",
+            "teamPlayers": [
+                {
+                    "id": "8313",
+                    "playerName": "Jason Holder",
+                    "role": "Bowling All-Rounder",
+                    "isCaptain": true
+                },
+                {
+                    "id": "247",
+                    "playerName": "Chris Gayle",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "8579",
+                    "playerName": "Evin Lewis",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "1610",
+                    "playerName": "Darren Bravo",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "9789",
+                    "playerName": "Shimron Hetmyer",
+                    "role": "Batsman"
+                },
+                {
+                    "id": "7922",
+                    "playerName": "Ashley Nurse",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "9785",
+                    "playerName": "Fabian Allen",
+                    "role": "Batting All-Rounder"
+                },
+                {
+                    "id": "7736",
+                    "playerName": "Andre Russell",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "8110",
+                    "playerName": "Carlos Brathwaite",
+                    "role": "Bowling All-Rounder"
+                },
+                {
+                    "id": "9406",
+                    "playerName": "Nicholas Pooran",
+                    "role": "WK-Batsman",
+                    "isWicketKeeper": true
+                },
+                {
+                    "id": "10384",
+                    "playerName": "Shai Hope",
+                    "role": "WK-Batsman"
+                },
+                {
+                    "id": "1359",
+                    "playerName": "Kemar Roach",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "11442",
+                    "playerName": "Oshane Thomas",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "8092",
+                    "playerName": "Shannon Gabriel",
+                    "role": "Bowler"
+                },
+                {
+                    "id": "9395",
+                    "playerName": "Sheldon Cottrell",
+                    "role": "Bowler"
+                }
+            ]
+        }
+    ]
+}

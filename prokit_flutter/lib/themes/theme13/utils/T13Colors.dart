@@ -1,0 +1,21 @@
+import 'dart:ui';
+
+const t13_colorPrimary = Color(0xFF0A9DA3);
+const t13_colorPrimaryDark = Color(0xFF0A9DA3);
+const t13_colorAccent = Color(0xFF0A9DA3);
+const t13_colorPrimary_light = Color(0xFF3E3A5BFB);
+const t13_textColorPrimary = Color(0xFFB2020005);
+const t13_textColorSecondary = Color(0xFF888888);
+const t13_textColorSecondary_blue = Color(0xFF86859B);
+const t13_textColorThird = Color(0xFFBABFB6);
+const t13_Grey = Color(0xFFE6E7E9);
+const t13_white = Color(0xFFFFFFFF);
+const t13_layout_background_white = Color(0xFFF6F7FA);
+const t13_view_color = Color(0xFFB4BBC2);
+const t13_blue_color = Color(0xFF15A9EB);
+const t13_color_gradient1 = Color(0xFF0DCEAB);
+const t13_dark_blue_color = Color(0xFF3D5895);
+const t13_edit_text_color = Color(0xFFEFF3F6);
+const t13_menu_background = Color(0xFF8BFFFFFF);
+const t13_ShadowColor = Color(0X95E9EBF0);
+const t13_app_background = Color(0xFFf8f8f8);

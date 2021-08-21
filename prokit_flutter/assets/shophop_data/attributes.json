@@ -1,0 +1,256 @@
+{
+  "categories": [
+    {
+      "count": 16,
+      "description": "",
+      "id": 45,
+      "isSelected": false,
+      "menu_order": 0,
+      "name": "Men",
+      "parent": 0,
+      "slug": "men",
+      "image": "images/shophop/ic_men.png"
+    },
+    {
+      "count": 6,
+      "description": "",
+      "id": 18,
+      "isSelected": false,
+      "menu_order": 0,
+      "name": "Women",
+      "parent": 16,
+      "slug": "women",
+      "image": "images/shophop/ic_woman.png"
+
+    },
+    {
+      "count": 1,
+      "description": "",
+      "id": 53,
+      "isSelected": false,
+      "menu_order": 0,
+      "name": "Baby & Kids",
+      "parent": 0,
+      "slug": "Kids",
+      "image": "images/shophop/ic_kids.png"
+
+    },
+    {
+      "count": 14,
+      "description": "",
+      "id": 19,
+      "isSelected": false,
+      "menu_order": 0,
+      "name": "Bags",
+      "parent": 0,
+      "slug": "Bags",
+      "image": "images/shophop/ic_bag.png"
+
+    },
+    {
+      "count": 4,
+      "description": "",
+      "id": 21,
+      "isSelected": false,
+      "menu_order": 0,
+      "name": "Decor",
+      "parent": 45,
+      "slug": "decor",
+      "image": "images/shophop/ic_decor.png"
+
+    },
+    {
+      "count": 1,
+      "description": "",
+      "id": 20,
+      "isSelected": false,
+      "menu_order": 0,
+      "name": "Sport",
+      "parent": 0,
+      "slug": "Sport",
+      "image": "images/shophop/ic_sports.png"
+
+    }
+  ],
+  "brand": [
+    {
+      "name": "Faballey"
+    },
+    {
+      "name": "Fendi",
+      "slug": "fendi"
+    },
+    {
+      "name": "Armani",
+      "slug": "Armani"
+    },
+    {
+      "name": "Adidas",
+      "slug": "Adidas"
+    },
+    {
+      "name": "Nike",
+      "slug": "Nike"
+    },
+    {
+      "name": "FBB",
+      "slug": "FBB"
+    },
+    {
+      "name": "Carter's",
+      "slug": "Carter's"
+    },
+    {
+      "name": "Zara",
+      "slug": "Zara"
+    }
+  ],
+  "size": [
+    {
+      "count": 10,
+      "description": "",
+      "id": 40,
+      "menu_order": 0,
+      "name": "L",
+      "slug": "l"
+    },
+    {
+      "count": 10,
+      "description": "",
+      "id": 39,
+      "menu_order": 0,
+      "name": "M",
+      "slug": "m"
+    },
+    {
+      "count": 10,
+      "description": "",
+      "id": 38,
+      "menu_order": 0,
+      "name": "S",
+      "slug": "s"
+    },
+    {
+      "count": 10,
+      "description": "",
+      "id": 25,
+      "menu_order": 0,
+      "name": "XL",
+      "slug": "xl"
+    },
+    {
+      "count": 9,
+      "description": "",
+      "id": 26,
+      "menu_order": 0,
+      "name": "XS",
+      "slug": "xs"
+    },
+    {
+      "count": 10,
+      "description": "",
+      "id": 27,
+      "menu_order": 0,
+      "name": "XXL",
+      "slug": "xxl"
+    }
+  ],
+  "color": [
+    {
+      "count": 16,
+      "description": "",
+      "id": 36,
+      "menu_order": 0,
+      "name": "#000000",
+      "slug": "black"
+    },
+    {
+      "count": 18,
+      "description": "",
+      "id": 22,
+      "menu_order": 0,
+      "name": "#1e73be",
+      "slug": "blue"
+    },
+    {
+      "count": 17,
+      "description": "",
+      "id": 23,
+      "menu_order": 0,
+      "name": "#58a80d",
+      "slug": "green"
+    },
+    {
+      "count": 18,
+      "description": "",
+      "id": 37,
+      "menu_order": 0,
+      "name": "#770f0f",
+      "slug": "brown"
+    },
+    {
+      "count": 18,
+      "description": "",
+      "id": 28,
+      "menu_order": 0,
+      "name": "#a8a8a8",
+      "slug": "gray"
+    },
+    {
+      "count": 17,
+      "description": "",
+      "id": 24,
+      "menu_order": 0,
+      "name": "#dd0202",
+      "slug": "red"
+    },
+    {
+      "count": 17,
+      "description": "",
+      "id": 29,
+      "menu_order": 0,
+      "name": "#eeee22",
+      "slug": "yellow"
+    },
+    {
+      "count": 16,
+      "description": "",
+      "id": 36,
+      "menu_order": 0,
+      "name": "#0C5A93",
+      "slug": "blue"
+    },
+    {
+      "count": 16,
+      "description": "",
+      "id": 36,
+      "menu_order": 0,
+      "name": "#FFFFFF",
+      "slug": "blue"
+    },
+    {
+      "count": 16,
+      "description": "",
+      "id": 36,
+      "menu_order": 0,
+      "name": "#BDBDBD",
+      "slug": "blue"
+    },
+    {
+      "count": 16,
+      "description": "",
+      "id": 36,
+      "menu_order": 0,
+      "name": "#0C3A6A",
+      "slug": "blue"
+    },
+    {
+      "count": 16,
+      "description": "",
+      "id": 36,
+      "menu_order": 0,
+      "name": "#FF220F09",
+      "slug": "blue"
+    }
+  ]
+}

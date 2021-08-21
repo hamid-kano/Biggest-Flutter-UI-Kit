@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "pinCode": "185236",
+    "city":"Cardiff",
+    "state": "Cardiff",
+    "address_type":"Home",
+    "address": "The Business Centre\n61 Wellfield Road\nRoath\nCardiff",
+    "phone_number":"7854123695",
+    "country": "England"
+  },
+  {
+    "id": 2,
+    "first_name": "Emily",
+    "last_name": "Doe",
+    "pinCode": "185236",
+    "city":"Cardiff",
+    "state": "Cardiff",
+    "address_type":"Home",
+    "address": "The Business Centre\n61 Wellfield Road\nRoath\nCardiff",
+    "phone_number":"7854123695",
+    "country": "England"
+  },
+  {
+    "id": 3,
+    "first_name": "Joseph",
+    "last_name": "Doe",
+    "pinCode": "185236",
+    "city":"Cardiff",
+    "state": "Cardiff",
+    "address_type":"Home",
+    "address": "The Business Centre\n61 Wellfield Road\nRoath\nCardiff",
+    "phone_number":"7854123695",
+    "country": "England"
+  },
+  {
+    "id": 4,
+    "first_name": "Tony",
+    "last_name": "Doe",
+    "pinCode": "185236",
+    "city":"Cardiff",
+    "state": "Cardiff",
+    "address_type":"Home",
+    "address": "The Business Centre\n61 Wellfield Road\nRoath\nCardiff",
+    "phone_number":"7854123695",
+    "country": "England"
+  },
+  {
+    "id": 5,
+    "first_name": "Mia",
+    "last_name": "Doe",
+    "pinCode": "185236",
+    "city":"Cardiff",
+    "state": "Cardiff",
+    "address_type":"Home",
+    "address": "The Business Centre\n61 Wellfield Road\nRoath\nCardiff",
+    "phone_number":"7854123695",
+    "country": "England"
+  },
+  {
+    "id": 6,
+    "first_name": "Nick",
+    "last_name": "Doe",
+    "pinCode": "185236",
+    "city":"Cardiff",
+    "state": "Cardiff",
+    "address_type":"Home",
+    "address": "The Business Centre\n61 Wellfield Road\nRoath\nCardiff",
+    "phone_number":"7854123695",
+    "country": "England"
+  }
+]

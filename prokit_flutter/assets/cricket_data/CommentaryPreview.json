@@ -1,0 +1,45 @@
+{
+    "match_id": "22021",
+    "series_id": "2784",
+    "series_name": "Womens Cricket Super League 2019",
+    "data_path": "2019/2019_WCSL/SV_LBL_AUG28/",
+    "header": {
+        "timeDiff": "10:59",
+        "start_time": "1567013400",
+        "end_time": "1567026000",
+        "state": "preview",
+        "dn": 1,
+        "match_desc": "30th Match",
+        "type": "T20",
+        "state_title": "Preview",
+        "toss": "",
+        "status": "Starts in 10 hrs 59 mins"
+    },
+    "alerts": "1",
+    "venue": {
+        "name": "The Rose Bowl",
+        "location": "Southampton, England",
+        "timezone": "+01:00",
+        "lat": "50.924131",
+        "long": "-1.322163"
+    },
+    "comm_lines": [
+        {
+            "timestamp": "1566924560117",
+            "comm": "<b>Teams:</b>"
+        },
+        {
+            "timestamp": "1566924559040",
+            "comm": "<b>Loughborough Lightning</b> (From): Chamari Athapaththu, Amy Ellen Jones(w), Georgia Adams, Hayley Matthews, Georgia Elwiss(c), Mignon du Preez, Kathryn Bryce, Jenny Gunn, Sarah Glenn, Joanne Gardner, Abigail Freeborn, Tara Norris, Kirstie Gordon, Alice Monaghan, Lucy Higham"
+        },
+        {
+            "timestamp": "1566924479695",
+            "comm": "<b>Southern Vipers</b> (From): Suzie Bates, Danielle Wyatt, Tammy Beaumont(w/c), Maia Bouchier, Thea Brookes, Natasha Farrant, Amanda Wellington, Paige Scholfield, Fi Morris, Lauren Bell, Stafanie Taylor, Charlotte Dean, Carla Rudd, Marie Kelly, Isabelle Wong"
+        }
+    ],
+    "range": "5",
+    "pulltoRefreshStopRate": 5,
+    "burst_cache_id": 0,
+    "burst_cache": true,
+    "burst_cache_time": 3600
+}
